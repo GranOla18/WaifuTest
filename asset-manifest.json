@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/WaifuTest/static/js/app.af9161ff.chunk.js",
+    "app.js.map": "/WaifuTest/static/js/app.af9161ff.chunk.js.map",
+    "runtime~app.js": "/WaifuTest/static/js/runtime~app.d697860b.js",
+    "runtime~app.js.map": "/WaifuTest/static/js/runtime~app.d697860b.js.map",
+    "static/js/2.7297d8d1.chunk.js": "/WaifuTest/static/js/2.7297d8d1.chunk.js",
+    "static/js/2.7297d8d1.chunk.js.map": "/WaifuTest/static/js/2.7297d8d1.chunk.js.map",
+    "favicon-16.png": "/WaifuTest/favicon-16.png",
+    "favicon-32.png": "/WaifuTest/favicon-32.png",
+    "favicon.ico": "/WaifuTest/favicon.ico",
+    "index.html": "/WaifuTest/index.html",
+    "manifest.json": "/WaifuTest/manifest.json",
+    "serve.json": "/WaifuTest/serve.json",
+    "static/js/2.7297d8d1.chunk.js.LICENSE.txt": "/WaifuTest/static/js/2.7297d8d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.d697860b.js",
+    "static/js/2.7297d8d1.chunk.js",
+    "static/js/app.af9161ff.chunk.js"
+  ]
+}
